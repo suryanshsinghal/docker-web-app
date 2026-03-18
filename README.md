@@ -164,6 +164,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-Developed as part of a cloud computing and DevOps learning project.
+**Suryansh Singhal**
+MCA Student | Cloud Computing Enthusiast
 
----
+📧 [suryanshsinghal.work@gmail.com](mailto:suryanshsinghal.work@gmail.com)
