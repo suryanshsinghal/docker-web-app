@@ -31,12 +31,6 @@ This project showcases how to build, containerize, and deploy a Python Flask web
 
 ---
 
-## 🌐 Live Demo
-
-👉 http://13.234.77.176:5000
-
----
-
 ## 📂 Project Structure
 
 ```
